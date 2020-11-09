@@ -1,3 +1,11 @@
 .topbar {
-    font-family: DejaVuSansMono;
-} 
+    font-size: 85px;
+    font-weight: bolder;
+    align-items: center;
+}
+.uma{
+    font-family: Brush Script MT;
+}
+.flor{
+    font-family: Cambria;
+}
