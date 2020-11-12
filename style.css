@@ -1,11 +1,8 @@
-.topbar {
-    font-size: 85px;
-    font-weight: bolder;
-    align-items: center;
+.polaroid {
+    height: 500px;
+    width: 400px;
 }
-.uma{
-    font-family: Brush Script MT;
-}
-.flor{
-    font-family: Cambria;
+.record {
+    height:400px;
+    width:400px;
 }
