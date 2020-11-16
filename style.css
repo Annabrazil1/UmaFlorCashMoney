@@ -15,4 +15,24 @@ html {
   }
   .container-fluid {
       background: transparent;
+
+  }
+  .parallax {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSplqb1TKxlGfkXAAvQkqleQemjruaFSfvqWQ&usqp=CAU");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  img {
+      opacity: 5;
+      background-attachment: fixed;
+  }
+
+  .picone{
+      height: 200px; width: 150px;
+  }
+  .pictwo{
+      height: 300px; width: 320;
   }
