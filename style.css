@@ -8,8 +8,21 @@
 }
 
 .first{
-   object-fit: initial;
-
+   
 }
+
+
+
+
+
+
+.container
+{
+    width: 100%;
+    margin-top: 10%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+.container h1 
 
 
