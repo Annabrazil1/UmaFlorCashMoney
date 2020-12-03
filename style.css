@@ -14,6 +14,23 @@
 
 
 
+
+
+
+body{
+    background-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
 .container
 {
     width: 100%;
@@ -23,7 +40,7 @@
 }
 .container h2 
 {
-    background: #aa62cc;
+    background-color: #aa62cc;
     color: fff;
     width: 200px;
     font-size: 24px;
