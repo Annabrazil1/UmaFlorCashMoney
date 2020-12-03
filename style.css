@@ -42,12 +42,12 @@ body{
 }
 .container h2 
 {
-   backgrownd: #oo62cc;
-   color: fff;
-   width: 200px;
-   font-size: 24px;
-   padding: 5px;
-   height: 40px;
+    background-color: #aa62cc;
+    color: fff;
+    width: 200px;
+    font-size: 24px;
+    padding: 5px;
+    height: 40px;
 }
 .container h2::after
 {
