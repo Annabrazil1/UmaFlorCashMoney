@@ -7,9 +7,7 @@
     width:400px;
 }
 
-.first{
-   
-}
+
 
 
 
@@ -25,12 +23,12 @@
 }
 .container h2 
 {
-   backgrownd: #oo62cc;
-   color: fff;
-   width: 200px;
-   font-size: 24px;
-   padding: 5px;
-   height: 40px;
+    background: #aa62cc;
+    color: fff;
+    width: 200px;
+    font-size: 24px;
+    padding: 5px;
+    height: 40px;
 }
 .container h2::after
 {
@@ -94,4 +92,7 @@ img
     background: transparent !important;
     border: none !important;
     box-shadow: none !important;
+}
+body {
+    background-image: url("./img/drips.png");
 }
