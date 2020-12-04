@@ -94,3 +94,17 @@ img
     border: none !important;
     box-shadow: none !important;
 }
+
+.color img{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: all 1s ease;
+    }
+    
+    .color img:hover{
+    filter: grayscale(0%);
+    filter: rgb(180, 166, 178);
+    -webkit-filter: grayscale(0%);
+    filter: none;
+    transition: 1s ease;
+    }    
